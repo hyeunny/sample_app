@@ -20,6 +20,7 @@ gem 'turbolinks', '2.3.0'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '2.2.3'
 gem 'rails-html-sanitizer', '1.0.1'
+gem 'bcrypt',               '3.1.7'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '0.4.0', group: :doc
 
